@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    margin: auto;
+}
+
+div {
+    margin: auto;
+}
+
+.grid {
+    display: grid;
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin: auto;
+    padding: 10px;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+}
+
+ol {
+    display: table;
+    margin: 0 auto;
+}
+
+button {
+    background-color: blue;
+    color: white;
+}
